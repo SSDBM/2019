@@ -1,10 +1,10 @@
 <html>
 <head>
 <TITLE>SSDBM 2019</TITLE>
-<META Http-equiv="refresh" Content="0; Url=https://www.soe.ucsc.edu/ssdbm19">
+<META Http-equiv="refresh" Content="0; Url=https://uccross.github.io/ssdbm2019/">
 </head>
 <body>
-forwards to https://www.soe.ucsc.edu/ssdbm19
+forwards to https://uccross.github.io/ssdbm2019/
 </head>
 </body>
 </html>
